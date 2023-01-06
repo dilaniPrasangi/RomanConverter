@@ -1,4 +1,4 @@
-# RomanConverter
+# Roman Converter
 
 This application converts given number(0-2000) to roman number. 
 
