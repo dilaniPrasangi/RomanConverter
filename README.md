@@ -2,4 +2,4 @@
 
 This application converts given number(0-2000) to roman number. 
 
-No initial configurations required to run the application.
+No initial configuration is required to run the application.
