@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPS.RomanConverter", "XSN.RomanConverter\XPS.RomanConverter.csproj", "{623B5F50-6701-4CFC-8196-B8586E933A69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPS.RomanConverterTests", "XPS.RomanConverterTests\XPS.RomanConverterTests.csproj", "{18B2AD66-6CDE-4F76-A226-2BFF3CDD8159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623B5F50-6701-4CFC-8196-B8586E933A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623B5F50-6701-4CFC-8196-B8586E933A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623B5F50-6701-4CFC-8196-B8586E933A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623B5F50-6701-4CFC-8196-B8586E933A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B2AD66-6CDE-4F76-A226-2BFF3CDD8159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B2AD66-6CDE-4F76-A226-2BFF3CDD8159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B2AD66-6CDE-4F76-A226-2BFF3CDD8159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B2AD66-6CDE-4F76-A226-2BFF3CDD8159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51A77F04-43E9-472B-BF10-649029A8AB7C}
+	EndGlobalSection
+EndGlobal
